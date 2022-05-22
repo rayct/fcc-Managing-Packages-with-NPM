@@ -1,6 +1,7 @@
 {
 	"author": "Raymond Turner",
 	"description": "Learning Back End Development and APIs App for the FreeCodeCamp Curriculum",
+	"keywords": [ "rayturner.dev", "freecodecamp", "learnig back end dev" ],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
