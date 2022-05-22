@@ -3,6 +3,7 @@
 	"description": "Learning Back End Development and APIs App for the FreeCodeCamp Curriculum",
 	"keywords": [ "rayturner.dev", "freecodecamp", "learnig back end dev" ],
 	"name": "fcc-learn-npm-package-json",
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
