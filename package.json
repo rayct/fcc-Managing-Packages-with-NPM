@@ -4,6 +4,7 @@
 	"keywords": [ "rayturner.dev", "freecodecamp", "learnig back end dev" ],
 	"name": "fcc-learn-npm-package-json",
 	"license": "MIT",
+	"version": "6.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
